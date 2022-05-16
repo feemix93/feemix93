@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on MERN
+- 🌱 I’m currently learning Javascipt, React
+- 📫 How to reach me: faheemuurehman@gmail.com, 
+                      faheemuurehman@hotmail.com
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feemix93)](https://github.com/anuraghazra/github-readme-stats)
 
