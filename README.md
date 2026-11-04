@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=feemix93&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feemix93&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=feemix93&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
